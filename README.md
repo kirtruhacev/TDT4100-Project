@@ -8,5 +8,7 @@ Det visuelle grensesnittet ble laget ved hjelp av SceneBuilder og JavaFX. Selve 
 
 For å kjøre applikasjonen: pull repoet -> kjør GradeCalculatorApp.java filen som Java Application. 
 
-I evalueringen fikk prosjektet full score (100/100)
+Se vedlagt bilde for hvordan applikasjonen ser ut med gitt input.
 ![GradeCalculatorScreenshot](https://user-images.githubusercontent.com/88584789/152038248-ff060ec2-323b-46f1-bf1a-68cf078d0cbb.png)
+
+I evalueringen fikk prosjektet full score (100/100)
