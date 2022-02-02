@@ -7,6 +7,7 @@ I tillegg har den mulighet til å skrive til og lese fra fil.
 Det visuelle grensesnittet ble laget ved hjelp av SceneBuilder og JavaFX. Selve applikasjonen er 100% Java.
 
 For å kjøre applikasjonen: pull repoet -> kjør GradeCalculatorApp.java filen som Java Application 
+
 (pathen er følgende: project/src/main/java/project)
 
 Se vedlagt bilde for hvordan applikasjonen ser ut med gitt input.
